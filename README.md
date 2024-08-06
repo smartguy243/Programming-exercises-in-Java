@@ -19,3 +19,5 @@ This repository is a comprehensive collection of Java exercises designed for lea
 ## Author
 
 ### Eraste Kadiayi
+
+`_Software Developer_`
