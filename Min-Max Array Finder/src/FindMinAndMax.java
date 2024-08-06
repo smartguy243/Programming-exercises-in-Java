@@ -28,6 +28,7 @@ public class FindMinAndMax {
     }
 }
 
+
     // 2. With a for loop using inbuilt methods min() and max().
 
 class FindMinAndMax2 {
