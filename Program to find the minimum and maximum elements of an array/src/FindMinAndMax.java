@@ -18,7 +18,7 @@ public class FindMinAndMax {
 
         /* This is the easiest way to find
         minimum and maximum elements of and array and this algorithm
-        has a good time complexity [O(n log(n))] and no extra space is used [O(1)]:
+        has a good time complexity [O(n log(n))] and no extra space is used [O(1)].
         */
     }
 }
