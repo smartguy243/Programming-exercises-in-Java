@@ -32,7 +32,7 @@ This repository is a comprehensive collection of Java exercises designed for lea
 ## Getting Started
 
 1. Clone the repository to your local machine:  
-   git clone https://github.com/yourusername/java-exercises.git
+   git clone https://github.com/smartguy243/Programming-exercises-in-Java.git
    
 2. Navigate to the exercises directory.  
    
