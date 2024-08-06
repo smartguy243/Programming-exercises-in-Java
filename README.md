@@ -21,3 +21,10 @@ This repository is a comprehensive collection of Java exercises designed for lea
 ### Eraste Kadiayi
 
 *``Software Developer``*
+
+## Features
+
+- Variety of Exercises: Explore a wide range of topics including loops, conditionals, data structures, algorithms, object-oriented programming, and more.
+- Solutions Provided: Each exercise comes with a detailed solution. This helps you understand not only the correct results but also the thought process behind them.
+- Difficulty Levels: Exercises are categorized into easy, medium, and hard levels, allowing you to progress at your own pace.
+- Code Quality: Solutions are written with best practices in mind, ensuring clean, readable, and maintainable code.
