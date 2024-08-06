@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="Implemented the algorithm by using inbuilt function to sort array">
+    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods">
+      <change afterPath="$PROJECT_DIR$/Program to find the area of a rectangle/src/AreaOfRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/src/FindMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/src/FindMinAndMax.java" afterDir="false" />
     </list>
@@ -57,7 +58,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindMinAndMax2">
+  <component name="RunManager" selected="Application.AreaOfRectangle2">
+    <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfRectangle" />
+      <module name="Program to find the area of a rectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaOfRectangle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfRectangle2" />
+      <module name="Program to find the area of a rectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinAndMax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMinAndMax2" />
       <module name="Program to find the minimum and maximum elements of an array" />
@@ -65,17 +80,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG" />
-      <module name="Program to find the minimum and maximum elements of an array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaOfRectangle2" />
+        <item itemvalue="Application.AreaOfRectangle" />
         <item itemvalue="Application.FindMinAndMax2" />
-        <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722935928282</updated>
-      <workItem from="1722935929332" duration="2961000" />
+      <workItem from="1722935929332" duration="4721000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the algorithm by using inbuilt function to sort array">
       <option name="closed" value="true" />
@@ -113,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722937412475</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods">
+      <option name="closed" value="true" />
+      <created>1722939102426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722939102426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +163,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Implemented the algorithm by u" />
     <MESSAGE value="Implemented the algorithm by using inbuilt function to sort array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented the algorithm by using inbuilt function to sort array" />
+    <MESSAGE value="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods" />
   </component>
 </project>

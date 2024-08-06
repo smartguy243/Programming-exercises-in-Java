@@ -1,4 +1,5 @@
-/* This program shows multiple way to find maximum and minimum elements
+/* @author: SmartGuy
+   @description:This program shows multiple way to find maximum and minimum elements
    of an array
  */
 
