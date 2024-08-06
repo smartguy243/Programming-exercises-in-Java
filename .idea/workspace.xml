@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods">
-      <change afterPath="$PROJECT_DIR$/Program to find the area of a rectangle/src/AreaOfRectangle.java" afterDir="false" />
+    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/Program to check if a number is positive _ negative or zero/src/CheckNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program to find the area of a rectangle/src/AreaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program to find the area of a rectangle/src/AreaOfRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/src/FindMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/src/FindMinAndMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AreaOfRectangle2">
+  <component name="RunManager" selected="Application.CheckNumber2">
     <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfRectangle" />
       <module name="Program to find the area of a rectangle" />
@@ -73,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckNumber2" />
+      <module name="Program to check if a number is positive _ negative or zero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinAndMax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMinAndMax2" />
       <module name="Program to find the minimum and maximum elements of an array" />
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckNumber2" />
         <item itemvalue="Application.AreaOfRectangle2" />
         <item itemvalue="Application.AreaOfRectangle" />
         <item itemvalue="Application.FindMinAndMax2" />
@@ -96,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722935928282</updated>
-      <workItem from="1722935929332" duration="4721000" />
+      <workItem from="1722935929332" duration="7689000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the algorithm by using inbuilt function to sort array">
       <option name="closed" value="true" />
@@ -130,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722939102426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added &quot;@author&quot; and &quot;@description comments&quot;">
+      <option name="closed" value="true" />
+      <created>1722940799680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722940799680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1722940923771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722940923771</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +189,8 @@
     <MESSAGE value="Implemented the algorithm by u" />
     <MESSAGE value="Implemented the algorithm by using inbuilt function to sort array" />
     <MESSAGE value="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods" />
+    <MESSAGE value="Added &quot;@author&quot; and &quot;@description comments&quot;" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
