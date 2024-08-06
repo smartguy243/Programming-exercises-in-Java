@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Program to check if a number is positive _ negative or zero/Program to check if a number is positive _ negative or zero.iml" filepath="$PROJECT_DIR$/Program to check if a number is positive _ negative or zero/Program to check if a number is positive _ negative or zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program to find the area of a rectangle/Program to find the area of a rectangle.iml" filepath="$PROJECT_DIR$/Program to find the area of a rectangle/Program to find the area of a rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/Program to find the minimum and maximum elements of an array.iml" filepath="$PROJECT_DIR$/Program to find the minimum and maximum elements of an array/Program to find the minimum and maximum elements of an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming exercises in Java.iml" filepath="$PROJECT_DIR$/Programming exercises in Java.iml" />
+    </modules>
+  </component>
+</project>
