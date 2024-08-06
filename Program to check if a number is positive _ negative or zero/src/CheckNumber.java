@@ -66,7 +66,7 @@ class CheckNumber2 {
 
 
     /*
-       2. With interaction with user using inbuilt method signum().
+       3. With interaction with user using inbuilt method signum().
        @description: User is asked to provide the number to be checked
                      and the program displays 1, -1 or 0.
     */
