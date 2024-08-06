@@ -38,3 +38,11 @@ This repository is a comprehensive collection of Java exercises designed for lea
    
 3. Start solving exercises and check your solutions!
 ```
+
+## Contribute
+
+We welcome contributions! If you have ideas for new exercises or improvements to existing ones, feel free to submit a pull request.
+
+## Connect with Us:
+
+Follow this account and contribute your skills to this growing repository. Feel free to reach out for discussions, questions, or feedback!
