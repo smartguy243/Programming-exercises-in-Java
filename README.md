@@ -20,4 +20,4 @@ This repository is a comprehensive collection of Java exercises designed for lea
 
 ### Eraste Kadiayi
 
-`_Software Developer_`
+``*Software Developer*``
