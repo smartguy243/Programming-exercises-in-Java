@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="Deleting one directory">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Min-Max Array Finder/src/FindMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindMinAndMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number sign checker/src/CheckNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rectangle Area Finder/src/AreaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaOfRectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="e36b4b45-239a-4496-9472-0246ab9aeb70" name="Changes" comment="Added a shorter algorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722935928282</updated>
       <workItem from="1722935929332" duration="7689000" />
-      <workItem from="1723062130259" duration="978000" />
+      <workItem from="1723062130259" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the algorithm by using inbuilt function to sort array">
       <option name="closed" value="true" />
@@ -174,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722940923771</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added a shorter algorithm">
+      <option name="closed" value="true" />
+      <created>1723063536431</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723063536431</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +213,7 @@
     <MESSAGE value="Implemented the algorithm using a for loop and inbuilt methods min() and min() methods" />
     <MESSAGE value="Added &quot;@author&quot; and &quot;@description comments&quot;" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Added a shorter algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a shorter algorithm" />
   </component>
 </project>
