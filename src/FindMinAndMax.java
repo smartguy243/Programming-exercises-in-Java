@@ -4,9 +4,35 @@
                  of an array.
  */
 
-    // 1. Using inbuilt method to sort array
-import java.util.Arrays;
-public class FindMinAndMax {
+ import java.util.Arrays;
+
+     // 1. Without using any inbuilt method
+ public  class FindMinAndMax {
+         public static void main(String[] args) {
+             int[] array = {1, 45, 123, 7, 12, 65, 3, 345, 25, 57};
+
+             // Declaring min and max values as the first element of array
+             int min = array[0];
+             int max = array[0];
+
+             // Iterating through the array with a for loop
+             for (int i = 0; i < array.length; i++) {
+                 if (array[i] < min) {
+                     min = array[i];
+                 } else if (array[i] > max) {
+                     max = array[i];
+
+                  /*This is the easiest way to find minimum
+                    and maximum elements of an array.
+                   */
+                 }
+             }
+         }
+ }
+
+    // 2. Using inbuilt method to sort array
+
+class FindMinAndMax2 {
     public static void main(String[] args) {
         int[] array = {1, 45, 123, 7, 12, 65, 3, 345 , 25, 57};
 
@@ -21,17 +47,16 @@ public class FindMinAndMax {
                 "The maximum element : " + array[array.length-1]);
 
         /*
-           This is the easiest way to find minimum and maximum elements of an array.
-           In addition, the following algorithm has a good time complexity [O(n log(n))]
+           The following algorithm has a good time complexity [O(n log(n))]
            and no extra space is used [O(1)].
         */
     }
 }
 
 
-    // 2. With a for loop using inbuilt methods min() and max().
+    // 3. With a for loop using inbuilt methods min() and max().
 
-class FindMinAndMax2 {
+class FindMinAndMax3 {
 
     // Method to find the minimum element.
     static int getMin(int[] arr, int n)
@@ -66,3 +91,4 @@ class FindMinAndMax2 {
         */
     }
 }
+
