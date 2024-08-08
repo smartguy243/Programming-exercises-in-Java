@@ -1,4 +1,4 @@
- /*
+package Min_Max_Array_Finder; /*
    @author: SmartGuy
    @description: This program shows multiple ways to find maximum and minimum elements
                  of an array.

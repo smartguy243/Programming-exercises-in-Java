@@ -1,4 +1,4 @@
- /*
+package Rectangle_Area_Finder; /*
    @author: SmartGuy
    @description: This program shows multiple ways to find the area of a rectangle
                  with length and width.

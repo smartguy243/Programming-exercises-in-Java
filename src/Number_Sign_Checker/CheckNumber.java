@@ -1,4 +1,4 @@
- /*
+package Number_Sign_Checker; /*
    @author: SmartGuy
    @description: This program shows multiple ways to check
                  if a number is positive, negative or zero.
