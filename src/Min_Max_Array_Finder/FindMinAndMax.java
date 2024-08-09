@@ -27,6 +27,8 @@ package Min_Max_Array_Finder; /*
                    */
                  }
              }
+             System.out.println("The minimum is : " +min);
+             System.out.println("The maximum is : " +max);
          }
  }
 
